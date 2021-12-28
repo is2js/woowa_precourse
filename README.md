@@ -12,7 +12,7 @@
 >![image-20211226224431464](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211226224431464.png)
 
 
-
+<br>
 ## **🌑 1차 코딩 테스트**
 
 
@@ -24,8 +24,8 @@
 - 1차 온라인 코딩 테스트: 21.11.06  12:00 ~ 16:00 (4시간, 7문제)
   - **6문제 이상 맞춰야 합격선**
 
-
-
+<br>
+<br>
 ### 🗄 문제 정보
 
 |  No  |     난이도     |                 문제 요약                  |
@@ -38,7 +38,8 @@
 |  6   | 실버 3~브론즈2 |           문자열, 시간 변환 심화           |
 |  7   |    실버1~3     |             삼각수 + 규칙 찾기             |
 
-
+<br>
+<br>
 
 
 
@@ -48,17 +49,18 @@
   ![image-20211226230640724](https://raw.githubusercontent.com/is3js/screenshots/main/image-20211226230640724.png)
 
 
-
-
+<br>
+<br>
 
 ## **🌘 프리코스**
 
-
+<br>
 ### 🗓 기간
 
 - 2021.11.24 ~ 2021.12.14
 
-
+<br>
+<br>
 
 ### 🚗 학습 목표
 
@@ -71,7 +73,8 @@
 >**서로가 같이할 수 있는지를 탐색할 수 있는 시간**이라고 생각하면 됩니다.
 
 
-
+<br>
+<br>
 ### 📚 미션
 
 | Week |           Mission            |                          Repository                          |                              PR                              |         Period          |          Note           |
@@ -84,25 +87,13 @@
 |  3   |       **자판기 구현**        | [java-pairmatching-precourse](https://github.com/woowacourse/java-pairmatching-precourse) | [PR](https://github.com/woowacourse/java-vendingmachine-precourse/pull/116) | 2021.12.08 ~ 2021.12.14 |       3주차 미션        |
 | 최종 |    **페어 매칭 프로그램**    | [java-pairmatching-precourse](https://github.com/woowacourse/java-pairmatching-precourse) | [PR](https://github.com/woowacourse/java-pairmatching-precourse/pull/128) |       2021.12.18        |     최종 코딩테스트     |
 
-
-### 미션 주차별 핵심역량
+<br>
+<br>
+### 미션 주차별 핵심역량 및 추가 학습 내역
 
 - [1주차] 원시변수만 사용했지만, 추가학습과 함께 **java와 IDE(intellij)에 대한 숙련도**를 높였습니다
 - [2주차] **기능 구현 목록을 지속 업데이트**하며, **요구사항 체크리스트를 통해 기준을 가진 예비개발자**가 되었습니다.
 - [3주차] **MVC** 패턴 및 모든 원시타입을 **래핑 + 일급컬렉션을 사용할 수 있는 예비개발자**가 되었습니다.
-
-
-### 📝 미션간 추가 학습자료
-
-
-
-▶ 프리코스 회고
-- 3주간 객체 지향에 대한 정수를 느낄 수 있었다.
-- intellij를 사용하였지만, jetbrain발의 ide을 이용하여 객체지향적 프로그래밍을 편하게 할 수 있게 되었다.
-- 일급객체, 래핑변수 등 변수 포장을 통한 프로그래밍이 먼지 알 수 있었다.
-- java로만 진행하여 숙련도가 떨어져서 최종 테스트는 생각한 바를 다 구현하지 못하여 아쉬웠다.
-
-
 
 <details>
     <summary>주차별 추가 학습 내용</summary>
@@ -115,6 +106,19 @@
 - 기존 python으로 푼 백준 문제 -> [java로 풀기](https://github.com/is2js/boj_java)  +  [개념정리](https://github.com/is2js/boj_java/blob/master/concept.md)
 - java로 콘솔 게시판 구현해보기 [설명](https://github.com/is2js/exampleStudy01/blob/master/board.md) 및 [레파지토리](https://github.com/is2js/exampleStudy01/tree/master/src/main/java/board)
   </details>
+<br>
+<br>
+
+### 📝 미션 후 회고 
+
+
+▶ 프리코스 회고
+- 3주간 객체 지향에 대한 정수를 느낄 수 있었다.
+- intellij를 사용하였지만, jetbrain발의 ide을 이용하여 객체지향적 프로그래밍을 편하게 할 수 있게 되었다.
+- 일급객체, 래핑변수 등 변수 포장을 통한 프로그래밍이 먼지 알 수 있었다.
+- java로만 진행하여 숙련도가 떨어져서 최종 테스트는 생각한 바를 다 구현하지 못하여 아쉬웠다.
+
+
   
 <details>
     <summary>최종 테스트 불합격 회고</summary>
