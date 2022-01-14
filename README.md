@@ -1,5 +1,5 @@
 # 🪐 woowa precourse
-### 프리코스를 통해 훈련한 
+### 프리코스 과정에 필요한 체크리스트
 1. 특정언어(java)의 특정 코드 컨벤션(naver-hackday)을 지키는가
 2. 3항 연산자를 쓰지 않는가
 3. indent depth가 2이하인가
@@ -104,7 +104,7 @@
 |      |         블랙잭 미션          | [java-blackjack-precourse](https://github.com/KJunseo/java-blackjack-precourse) |                              -                               |            -            | 이전 기수 프리코스 미션 |
 |      |        치킨 POS 미션         | [java-chicken](https://github.com/KJunseo/java-chicken-2019) |                              -                               |            -            | 이전 기수 프리코스 미션 |
 |      | 지하철 노선도 경로 조회 미션 | [java-subway-path-precourse](https://github.com/KJunseo/java-subway-path-precourse) |                              -                               |            -            | 이전 기수 프리코스 미션 |
-|  3   |       **자판기 구현**        | [java-pairmatching-precourse](https://github.com/woowacourse/java-pairmatching-precourse) | [PR](https://github.com/woowacourse/java-vendingmachine-precourse/pull/116) | 2021.12.08 ~ 2021.12.14 |       3주차 미션        |
+|  3   |       **자판기 구현**        | [java-vendingmachine-precourse](https://github.com/woowacourse/java-vendingmachine-precourse) | [PR](https://github.com/woowacourse/java-vendingmachine-precourse/pull/116) | 2021.12.08 ~ 2021.12.14 |       3주차 미션        |
 | 최종 |    **페어 매칭 프로그램**    | [java-pairmatching-precourse](https://github.com/woowacourse/java-pairmatching-precourse) | [PR](https://github.com/woowacourse/java-pairmatching-precourse/pull/128) |       2021.12.18        |     최종 코딩테스트     |
 
 <br>
